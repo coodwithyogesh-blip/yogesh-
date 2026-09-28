@@ -1,0 +1,6 @@
+{
+  "name": "Arushi AI",
+  "description": "Voice-to-voice AI Assistant with smart Hindi/English conversations, Ola & Rapido ride booking, Amazon orders, call automation, and background mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
